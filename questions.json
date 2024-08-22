@@ -1,0 +1,285 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Articles",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "We use 'an' before words like 'university' and 'European'.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "Despite starting with vowels, these words begin with a consonant 'y' sound, so we use 'a'."
+        },
+        {
+          "questionNo": 2,
+          "question": "I saw ____ one-eyed cat yesterday.",
+          "options": [
+            "a",
+            "an"
+          ],
+          "answer": 0,
+          "explanation": "Despite 'one' starting with a vowel, it begins with a 'w' sound as in 'won'."
+        },
+        {
+          "questionNo": 3,
+          "question": "Fill in the blank: '____ British drink a lot of tea.'",
+          "options": [
+            "A",
+            "An",
+            "The"
+          ],
+          "answer": 2,
+          "explanation": "We use 'the' when referring to nationalities as a whole."
+        },
+        {
+          "questionNo": 4,
+          "question": "____ Himalayas are the highest mountain range in the world.",
+          "options": [
+            "A",
+            "The"
+          ],
+          "answer": 1,
+          "explanation": "Mountain ranges typically use 'the'."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which is correct? 'I saw ____ UFO in ____ sky last night.'",
+          "options": [
+            "a, a",
+            "a, the",
+            "the, a"
+          ],
+          "answer": 1,
+          "explanation": "'UFO' starts with a consonant sound of /y/ as in 'you,' and 'sky' is considered unique in this context."
+        },
+        {
+          "questionNo": 6,
+          "question": "'The' can be used to talk about things in general, like 'The elephant is a large mammal.'",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "'The' can be used with singular nouns to represent an entire class or species."
+        },
+        {
+          "questionNo": 7,
+          "question": "____ United Kingdom consists of four countries.",
+          "options": [
+            "A",
+            "The"
+          ],
+          "answer": 1,
+          "explanation": "We use 'the' with the full names of some countries. For example: The United States of America."
+        },
+        {
+          "questionNo": 8,
+          "question": "She's ____ NFL player. ",
+          "options": [
+            "a",
+            "an"
+          ],
+          "answer": 1,
+          "explanation": "'NFL' is pronounced starting with a vowel sound (/æ/)."
+        },
+        {
+          "questionNo": 9,
+          "question": "We use 'the' before superlatives, like 'the best' or 'the most beautiful'.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "Superlatives always take the definite article 'the'."
+        },
+        {
+          "questionNo": 10,
+          "question": "Choose the correct option: '____ honesty is ____ best policy.'",
+          "options": [
+            "An, the",
+            "-, the",
+            "The, a",
+            "-, a"
+          ],
+          "answer": 1,
+          "explanation": "'Honesty' is an uncountable noun and doesn't require an article when used in a general sense. 'Best policy' uses 'the' because it's a superlative."
+        },
+        {
+          "questionNo": 11,
+          "question": "Choose the correct article: 'She's ____ heir to the throne.'",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 1,
+          "explanation": "'Heir' starts with a silent 'h', so it begins with a vowel sound."
+        },
+        {
+          "questionNo": 12,
+          "question": "We use 'the' before the names of rivers, seas, and oceans.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "These geographical features typically use 'the'."
+        },
+        {
+          "questionNo": 13,
+          "question": "Fill in the blanks: 'I need ____ information about ____ hotels in Paris.'",
+          "options": [
+            "a, the",
+            "an, -",
+            "-, the",
+            "the, -"
+          ],
+          "answer": 2,
+          "explanation": "'Information' is uncountable and doesn't need an article here. 'Hotels in Paris' is a specific group, so it uses 'the'."
+        },
+        {
+          "questionNo": 14,
+          "question": "____ Mona Lisa is displayed in the Louvre. ",
+          "options": [
+            "A",
+            "The"
+          ],
+          "answer": 1,
+          "explanation": "We use 'the' with unique or famous works of art."
+        },
+        {
+          "questionNo": 15,
+          "question": "Fill in the blank: '____ Andes are in South America.'",
+          "options": [
+            "A",
+            "An",
+            "The"
+          ],
+          "answer": 2,
+          "explanation": "Mountain ranges typically use 'the'."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which is correct? '____ hour and ____ half ago, I was at the store.'",
+          "options": [
+            "An, a",
+            "A, an",
+            "The, the"
+          ],
+          "answer": 0,
+          "explanation": "'Hour' starts with a vowel sound (/aa/), while 'half' starts with a consonant sound."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which article fits here? 'I saw ____ most amazing sunset yesterday.'",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 2,
+          "explanation": "We use 'the' with superlatives."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which sentence uses articles correctly?",
+          "options": [
+            "The water is essential for the life.",
+            "Water is essential for life.",
+            "A water is essential for a life.",
+            "The water is essential for life."
+          ],
+          "answer": 1,
+          "explanation": "Both 'water' and 'life' are uncountable nouns used in a general sense here, so they don't need articles."
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the correct article: '____ Swiss are known for their chocolates.'",
+          "options": [
+            "A",
+            "An",
+            "The"
+          ],
+          "answer": 2,
+          "explanation": "We use 'the' when referring to nationalities as a whole."
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the correct option: 'I saw ____ cat chasing ____ mice in ____ garden.'",
+          "options": [
+            "a, -, the",
+            "the, -, a",
+            "a, the, -",
+            "the, -, the"
+          ],
+          "answer": 0,
+          "explanation": "'A cat' is non-specific. 'Mice' is plural and doesn't need an article. 'The garden' is specific in this context."
+        },
+        {
+          "questionNo": 21,
+          "question": "Fill in the blanks: 'She has ____ experience in ____ marketing and ____ sales.'",
+          "options": [
+            "an, -, -",
+            "-, -, -",
+            "the, the, the",
+            "-, the, the"
+          ],
+          "answer": 1,
+          "explanation": "'Experience', 'marketing', and 'sales' are all uncountable nouns in this context and don't require articles."
+        },
+        {
+          "questionNo": 22,
+          "question": "Fill in the blanks: 'In ____ modern world, ____ technology plays ____ crucial role.'",
+          "options": [
+            "the, -, a",
+            "a, the, the",
+            "the, -, the",
+            "-, -, a"
+          ],
+          "answer": 0,
+          "explanation": "'The modern world' is specific. 'Technology' is uncountable. 'A crucial role' is non-specific and countable."
+        },
+        {
+          "questionNo": 23,
+          "question": "Which sentence uses articles correctly?",
+          "options": [
+            "The happiness is key to the successful life.",
+            "Happiness is key to successful life.",
+            "A happiness is key to a successful life.",
+            "Happiness is key to a successful life."
+          ],
+          "answer": 3,
+          "explanation": "'Happiness' is uncountable. Thus, no article is used. 'A successful life' is non-specific. Thus, the article 'a' is used."
+        },
+        {
+          "questionNo": 24,
+          "question": "Which sentence is correct?",
+          "options": [
+            "I prefer tea over a coffee.",
+            "I prefer an tea over the coffee.",
+            "I prefer tea over coffee.",
+            "I prefer a tea over an coffee."
+          ],
+          "answer": 2,
+          "explanation": "When referring to 'tea' and 'coffee' in general, no articles are used as they are uncountable nouns."
+        },
+        {
+          "questionNo": 25,
+          "question": "Choose the correct option: '____ knowledge is power, but ____ wisdom is knowing how to use it.'",
+          "options": [
+            "The, the",
+            "-, -",
+            "A, the",
+            "The, a"
+          ],
+          "answer": 1,
+          "explanation": "Both 'knowledge' and 'wisdom' are uncountable nouns used in a general sense, so they don't need articles."
+        }
+      ]
+    }
+  ]
+}
